@@ -1,0 +1,9 @@
+[submodule "go-tutorial-accessing-relational-database"]
+	path = go-tutorial-accessing-relational-database
+	url = https://github.com/mdrmtz/go-tutorial-accessing-relational-database.git
+[submodule "go-tutorial-multi-module"]
+	path = go-tutorial-multi-module
+	url = https://github.com/mdrmtz/go-tutorial-multi-module.git
+[submodule "go-tutorial-create-a-module"]
+	path = go-tutorial-create-a-module
+	url = https://github.com/mdrmtz/go-tutorial-create-a-module.git
